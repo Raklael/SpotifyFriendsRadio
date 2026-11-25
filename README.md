@@ -1,0 +1,2 @@
+# SpotifyFriendsRadio
+School project
